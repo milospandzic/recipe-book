@@ -10,3 +10,4 @@
 
 - chop potato
 - fry it
+- serve it
